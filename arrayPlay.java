@@ -6,10 +6,11 @@ class arrayPlay {
     private String employName;
     private int ID;
 
+    //default constructor
     public arrayPlay() {
-
     }
 
+    //constructor 
     public arrayPlay(String employName, int ID) {
         this.employName = employName;
         this.ID = ID;
