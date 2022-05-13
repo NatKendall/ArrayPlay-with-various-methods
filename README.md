@@ -9,7 +9,7 @@ In Main class the instructions were as followed
 • The employeeArray array values will be Susan, Bill, Margo, Pamela, and Abe.
 • The IDArray array values will be 123, 245, 789, 354, and 256.
 
---For class Arrayplay
+--For class arrayPlay
 •	Create two private data members called employName and ID.
 •	The class constructor will have two parameters and will set the employName and ID to their parameters.
 •	This class will have 4 methods.
@@ -17,3 +17,5 @@ In Main class the instructions were as followed
 2.	Method 2 will be called linearSearch will do a linear search on the IDArray looking for the value of 354. This method must use recursion. The base case is that the value is not in the array.
 3.	Method 3 will be called binarySearch will do a binary search on the employeeArray looking for the value of Bill. You may use the Arrays class for this method.
 4.	Method 4 will be called displayResults and will be used to display the data
+
+--Recieved score of 105% from Data Structure Professor
