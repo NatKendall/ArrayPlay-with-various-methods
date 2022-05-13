@@ -1,22 +1,9 @@
 
-/**
- * My words and actions will reflect Academic Integrity. I will not cheat or lie
- * or steal in academic matters. I will promote integrity in the UNCG community.
- * Student’s Signature (Nat) Michelle Kendall Date 2/28/2022
- *
- * @author Kenda
- */
-// arrayPlay
-/*
-    (Nat) Michelle Kendall
-     CSC 230, Sec 03
-     2/28/2022
- */
+// @author Kenda
+
 public class main {
 
     public static void main(String[] args) {
-        System.out.println("Michelle Kendall, CSC 230, Sec 03, 2/28/2022");
-        System.out.println();
         System.out.println("This program creatures 2 objects of array type and works with them.\n"
                 + "The arrays contain employee names and IDs. \n");
 
